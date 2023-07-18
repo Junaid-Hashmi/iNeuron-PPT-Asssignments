@@ -1,0 +1,7 @@
+Q.9 What’s the difference between html tag and attribute and give example of some global attributes?
+
+Ans: Tags are the name of an element while an attribute of an element contains some additional information about the element. 
+For example, <h1 align=”center”> Hello World! </h1>
+	          <img src=”./image.jpg” alt=”image” />
+In the above example, <h1> and <img /> are tags and align, src and alt are attributes which contain different information about how the tag should behave, the source of image, etc.
+Global Attributes are the attributes which can be used with all tags. Some examples are class, id, style, and title.

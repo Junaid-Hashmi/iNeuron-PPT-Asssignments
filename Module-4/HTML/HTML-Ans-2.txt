@@ -1,0 +1,5 @@
+Q.2: Explain Semantic tags in html? And why do we need it?
+
+Ans: Semantic refers to meaning. So, semantic tags in HTML functions like <div> tags, but they are more meaningful for developers as well as browsers. Some of the semantic tags are <header>, <main>, <section>, <aside>, <article>, etc.
+We need semantic tags because it makes the code more easy to read. It’s also used for accessibility purposes like screen reading etc.
+

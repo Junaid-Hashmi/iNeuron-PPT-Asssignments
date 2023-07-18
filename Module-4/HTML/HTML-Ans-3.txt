@@ -1,0 +1,6 @@
+Q.3: Differentiate between HTML Tags and Elements?
+
+Ans: Tags in HTML are part of an element that starts with the ‘<’ sign and ends with the ‘>’ sign. There’s an opening tag (for example ‘<p>’) and there’s a closing tag (for example ‘</p>’).
+Elements in HTML include both the tags, attributes and the content between the tags.
+Example of an element is ‘<p class=”text”> This is Paragraph </p>’
+

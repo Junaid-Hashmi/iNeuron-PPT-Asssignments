@@ -1,0 +1,6 @@
+Q.6 What are some of the advantages of HTML5 over its previous versions?
+
+Ans: - HTML5 introduced semantic elements which improved user accessibility and code readability for developers.
+ - HTML5 introduced <audio> & <video> elements to support multimedia.
+ - Declaring the type of document and HTML version is simple by writing <!DOCTYPE html> at the top of the document.
+ - HTML5 introduced <canvas> element that is used to draw figures like circle, rectangle, square, etc.
