@@ -1,0 +1,6 @@
+Q.8 Difference between absolute and relative and sticky and fixed position explain with example.
+
+Ans: Absolute - With this property value, the targeted element is basically removed from the flow of the document and its place is taken by other elements in the web page. The element is positioned relative to its parent element.
+Relative - The relative value changes the position of the element relative to where it is positioned. The HTML document's normal flow will remain the same but the targeted element will change its location according to the values given for the top, right, bottom and left.
+Sticky - Static is the default position of all the elements. The elements are static if they are structured according to the HTML document's normal flow. So, there's no need for the properties top, right, bottom and left.
+Fixed - Like absolute, this value also removes the element from the flow of the document. The difference between the two is, in absolute, the element changes its position relative to its parent element. While in fixed, the element will always be relative directly to the document and not any other element.

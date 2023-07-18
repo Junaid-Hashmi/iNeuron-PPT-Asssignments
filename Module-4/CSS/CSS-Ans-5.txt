@@ -1,0 +1,5 @@
+Q.5 How is Border-box different from Content Box?
+
+Ans: Border-box and Content-box both are the values for the property box-sizing.
+Content-box is the default behaviour of elements. In this, if we add padding or border to an element, the overall width and height of that element will increase. The padding and border get added outside the element.
+However, if the box-sizing is set to border-box, the padding and border of the element will get added inside the box and the width and the height will remain as it is.

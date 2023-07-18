@@ -1,0 +1,13 @@
+Q.6 What’s z-index and How does it Function ?
+
+Ans:  Z-index in CSS specifies the order of elements which are overlapped on top of one another. The element with the highest z-index value will be placed at the top (frontmost) and elements with lower z-index value will be placed behind.
+The Z-index property only works on elements whose position property is set to values other than static i.e. absolute, fixed, relative, and sticky. For example, if we have two absolute positioned elements, the element set with a higher z-index will be at the top and the lower z-index element will be displayed behind. For example,
+	.box1 {
+		position: absolute;
+		z-index: 1;
+  }
+  .box2 {
+	position: absolute;
+		z-index: 2;
+  }
+

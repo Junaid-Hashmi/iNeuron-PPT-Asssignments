@@ -1,0 +1,6 @@
+Q.7 What’s Grid & Flex and difference between them?
+
+Ans: Flex and Grid, both are display properties that are used in defining the layout of the webpage.
+Difference:
+Flexbox is mainly used for setting one-dimensional layout of the content. The flow can be a single row or column. Whereas, Grid is a two-dimensional layout system with rows and columns. Grid makes it easier in setting the layout of the web page.
+Flexbox is best suited for designing small-scale layouts while grid works best with large-scale layouts.

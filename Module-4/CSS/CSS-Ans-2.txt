@@ -1,0 +1,14 @@
+Q.2 What are the Different Types of Selectors in CSS & what are the advantages of them?
+
+Ans: 
+Different types of selectors:
+Element selectors (selects elements by using tag name)
+Class selector (selects elements with defined classes)
+Id selector (selects elements with their defined ids)
+Universal Selector (denoted by *, selects all the elements in the document)
+Attribute Selector (selects elements using their defined attribute)
+Pseudo Selectors (::before and ::after lets you add content before or after an element)
+Advantages:
+The different types of selectors in CSS allow you to be specific while targeting an HTML element. 
+By using classes, you don’t have to repeat the styling for every element you want to style.
+Classes and Ids make the code easier to read.

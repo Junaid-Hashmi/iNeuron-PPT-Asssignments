@@ -1,0 +1,5 @@
+Q.3 What is VW/VH ?
+
+Ans: VW/VH stands for Viewport Width/Viewport Height. A viewport is the whole area of the browser where the webpage is displayed.
+VW/VH in CSS lets you set the size of an element in proportion to the viewport. So, when the size of the viewport changes then the size of the targeted element will also change. 
+Whereas, PX in CSS is the unit, which is also used to set the size of an element, but the size would be absolute and would not change with the size of the viewport.

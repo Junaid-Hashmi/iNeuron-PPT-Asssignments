@@ -1,0 +1,5 @@
+Q.1 What’s Box Model in CSS ? 
+
+Ans: CSS Box model is the box which contains the HTML element and the properties of the element which are padding, border and margin. These properties are wrapped around the content of the HTML element.
+Content of element, padding, border and margin properties are part of it.
+

@@ -1,0 +1,5 @@
+Q.4 Whats difference between Inline, Inline Block and block ?
+
+Ans: Inline - Inline elements are the elements whose width is the size of the content. Inline elements do not take a new line to display. You can not set the width or height of inline elements. Examples of inline elements are <a> and <span>.
+Inline Block - Inline-block elements are the elements which do not take a new line to display. However, you can set these elements' height and width. Examples of inline-block elements are <input>, <button> and <img>.
+Block - Block elements take a new line to display as they take up the full width for themselves. You can change the width and height of block elements. Examples of block elements are <div>, <p>, all heading tags, etc.
